@@ -1,11 +1,3 @@
-# Deleted by the owner. Project closed <a href="https://t.me/ErrorFiX_Tv"> Get in touch on TELEGRAM for exclusive course to build pentesting tools (only for education)</a>.
-<p align="center">
-<img src="https://github.com/D3VL/L3MON/raw/master/server/assets/webpublic/logo.png" height="60"><br>
-A cloud-based remote Android management suite, powered by NodeJS 
-</p>
-
-<p>The only way to help us is to visit our YouTube channel and subscribe to our channel, leave your comments on our videos, and follow us on GitHub. Looking forward to your cooperation.</p>
-
 ## L3MON Features
 - GPS Logging
 - Microphone Recording
@@ -13,12 +5,14 @@ A cloud-based remote Android management suite, powered by NodeJS
 - SMS Logs
 - Send SMS
 - Call Logs
+- screen mirroring in real time 
 - View Installed Apps
 - View Stub Permissions
 - Live Clipboard Logging
 - Live Notification Logging
 - View WiFi Networks (logs previously seen)
 - File Explorer & Downloader
+- keypress logging 
 - Command Queuing
 - Built In APK Builder
 
